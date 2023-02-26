@@ -11,6 +11,4 @@
 <br>
 */
 
-Linguagem utilizada: C <br>
-Execução em aplicação de console <br>
-
+Foi utilizado no desenvolvimento dessa aplicação a linguagem de programação C.
