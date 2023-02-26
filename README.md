@@ -11,6 +11,6 @@
 <br>
 */
 
-Linguagem utilizada: C
-Execução em aplicação de console
+Linguagem utilizada: C <br>
+Execução em aplicação de console <br>
 
