@@ -10,3 +10,7 @@
 *No menu principal, pode-se realizar o registro de novos inquilinos, assim como consultar os já registrados.*
 <br>
 */
+
+Linguagem utilizada: C
+Execução em aplicação de console
+
