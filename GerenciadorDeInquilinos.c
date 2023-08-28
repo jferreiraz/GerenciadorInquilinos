@@ -8,7 +8,7 @@ No menu principal, pode-se realizar o registro de novos inquilinos, assim como c
 */
 
 //bibliotecas
-#include <string.h>
+#include <string.h> 
 #include <stdio.h>
 
 //máximo de 3 inquilinos por bloco
